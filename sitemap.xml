@@ -6,4 +6,16 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+        <url>
+        <loc>https://slot-rave.bet/index.htm</loc>
+        <lastmod>2026-04-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://slot-rave.bet/amp.html</loc>
+        <lastmod>2026-04-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
 </urlset>
